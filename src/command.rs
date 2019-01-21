@@ -20,7 +20,7 @@ pub struct CommandApp<'a, 'b> {
 impl<'a, 'b> CommandApp<'a, 'b> {
     pub fn new(conf: &'a GitmojiConfig) -> Self {
         let mut app = App::new("gic")
-            .version("0.2.7")
+            .version("0.2.8")
             .about("Generate elegant and uniform commit messages~")
             .arg(
                 Arg::with_name("scope")
