@@ -28,12 +28,12 @@ Inspired by the following projects:
 # Install
 
 ```
-wget https://raw.githubusercontent.com/iFaceless/gic/master/install.sh | sh install.sh
+wget -q https://raw.githubusercontent.com/iFaceless/gic/master/install.sh | sh install.sh
 ```
 
 # Usage
 
-[![kivDG8.gif](https://s2.ax1x.com/2019/01/22/kivDG8.gif)](https://imgchr.com/i/kivDG8)
+![gic](screenshots/gic.gif)
 
 Run `gic --help`, you'll get all the available choices:
 
@@ -98,4 +98,4 @@ ARGS:
 
 # License
 
-MIT License. Please feel free.
+MIT License. Please feel free~
